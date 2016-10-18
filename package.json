@@ -1,0 +1,13 @@
+{
+  "name": "learn-travis-Kurosama",
+  "description": "Simple Travis-Ci check from JSHint",
+  "author": "Kurosama",
+  "version": "0.0.1",
+  "script": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  },
+  "license":"MIT"
+}
