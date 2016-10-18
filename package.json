@@ -9,5 +9,9 @@
   "devDependencies": {
     "jshint": "^2.9.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kurosama/Learn-TravisCI-Kurosama"
+  },
   "license":"MIT"
 }
